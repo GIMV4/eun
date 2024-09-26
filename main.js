@@ -17,7 +17,7 @@ let media = function(quanto1, quanto2, quanto3){
     return quanto1+quanto2+quanto3/3;
 
 }
-document(quanto1, quanto2, quanto3);
+
 console.log(soma(1,3));
 console.log(areaQ (quanto1));
 console.log(media(quanto1, quanto2, quanto3));
