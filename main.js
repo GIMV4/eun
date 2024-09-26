@@ -8,4 +8,4 @@ function areaQ (quanto){
     return quanto**2;
 }
 console.log(soma(1,3));
-console.log(areaquadrado(quanto));
+console.log(areaQ (quanto));
