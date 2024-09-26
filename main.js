@@ -1,5 +1,5 @@
 alert('algo');
-let quanto = parseInt(prompt('insira 2 números iguais'));
+let quanto = parseInt(prompt('insira um números iguais'));
 document.write (quanto);
 function soma (non1, non2){
     return non1+non2;
