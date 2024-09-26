@@ -7,6 +7,6 @@ function soma (non1, non2){
 function areaQ (quanto){
     return quanto**2;
 }
+document.write (quanto);
 console.log(soma(1,3));
 console.log(areaQ (quanto));
-document.write (quanto);
